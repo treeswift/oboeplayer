@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OboePlayer</string>
+    <string name="def_fn">oboe</string>
+    <string name="def_ext">.png</string>
+    <string name="type_lock">lock</string>
+    <string name="type_main">main</string>
+    <string name="save">Save</string>
+    <string name="def_dir">/sdcard/…/</string>
+    <string name="pre_nougat">Screen lock wallpaper not available in this OS version (pre-7.0)</string>
+    <string name="unlock">Unlock</string>
+    <string name="written">Written: </string>
+</resources>
