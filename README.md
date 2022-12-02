@@ -6,6 +6,7 @@ Extract and save wallpaper from an Android phone — even if you lost the origin
 
 There is no Play page because Android is a platform, not a private party.
 Download the APK release (or build it yourself) and sideload it (either via ADB or by pushing it onto a phone via MTP and opening in a file manager).
+(In fact, you can open this very page on your phone (or tablet), navigate to "Releases" and save a trip.)
 
 ## Use
 
