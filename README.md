@@ -29,7 +29,7 @@ It's possible to retrieve the lock screen wallpaper since API 24 (early Nougat);
 
 ## Feature requests
 
-If you'd like to enhance the functionality of the application or the level of detail of the documentation, file an issue. If you already have a solution on your mind, fork the repo and post a pull request right away.
+If you'd like to enhance the functionality of the application or the level of detail of the documentation, file an issue. If you already have a solution on your mind, you can fork the repo and post a pull request right away.
 
 ## Design and branding
 
